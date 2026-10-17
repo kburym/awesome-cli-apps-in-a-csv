@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2208**
+* Apps/tools: **2209**
 * Categories: **87**
 
 # Contents
@@ -49,7 +49,7 @@ Summary:
 * [Versioning](#versioning) (9)
 * [Programming](#programming) (75)
 * [Program templates and boilerplate](#programming-boilerplate) (13)
-* [DevOps](#devops) (22)
+* [DevOps](#devops) (23)
 * [Web development](#webdev) (37)
 * [Co-pilot](#copilot) (12)
 ## [System and Terminal](#system-and-terminal-1)
@@ -982,6 +982,7 @@ Applications for supporting DevOps tasks, such as containers or cloud systems ma
 * [SAWS](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 * [sen](https://github.com/TomasTomecek/sen) - TUI for containers (manages interactively and inspects containers, dashboard view for containers and images, searching and filtering, real-time updates, tree view of all images).
 * [stern](https://github.com/stern/stern) - Multi pod and container log tailing for Kubernetes.
+* [tdk-cli-core](https://github.com/tdk-landscape/tdk-cli-core) - TDK CLI starts local services on Docker and Tilt from one service.json per service. No Kubernetes needed on the machine.
 * [TFTUI](https://github.com/idoavrah/terraform-tui) - TUI to view and interact with Terraform state.
 
 ## <a name="webdev"></a>Web development
